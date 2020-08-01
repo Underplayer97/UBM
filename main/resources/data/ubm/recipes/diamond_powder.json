@@ -1,0 +1,17 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"D","MP"
+	],
+	
+	"key":
+	{
+		"D" : { "item" : "minecraft:diamond"},
+		"MP" : { "item" : "ubm:mortar_pestel"}
+	},
+
+	"result" : { "item" : "ubm:diamond_powder"},
+	"count" : 1
+}

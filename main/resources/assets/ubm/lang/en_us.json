@@ -1,0 +1,20 @@
+{
+	
+	"itemGroup.Ubm":"UBM",
+	
+	"item.ubm.diamond_powder":"Diamond Powder",
+	"item.ubm.gold_powder":"Gold Powder",
+	"item.ubm.emerald_powder":"Emerald Powder",
+	"item.ubm.coal_powder":"Coal Powder",
+	"item.ubm.iron_powder":"Iron Powder",
+	"item.ubm.lapis_powder":"Lapis Powder",
+	
+	"item.ubm.mortar_pestel":"Mortar and Pestel",
+	
+	"item.ubm.ancient_sword":"Ancient Sword",
+	"item.ubm.true_sword":"The True Ancient Sword",
+	
+	"item.ubm.ancient_ingot":"Ancient Ingot",
+	
+	"block.ubm.ancient_ore":"Ancient Ore"
+}

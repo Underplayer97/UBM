@@ -1,0 +1,17 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"C","MP"
+	],
+	
+	"key":
+	{
+		"C" : { "item" : "minecraft:coal"},
+		"MP" : { "item" : "ubm:mortar_pestel"}
+	},
+
+	"result" : { "item" : "ubm:coal_powder"},
+	"count" : 1
+}

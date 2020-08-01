@@ -1,0 +1,17 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"I","MP"
+	],
+	
+	"key":
+	{
+		"I" : { "item" : "minecraft:iron_ingot"},
+		"MP" : { "item" : "ubm:mortar_pestel"}
+	},
+
+	"result" : { "item" : "ubm:iron_powder"},
+	"count" : 1
+}

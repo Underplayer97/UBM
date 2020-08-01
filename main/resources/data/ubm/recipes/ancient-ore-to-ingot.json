@@ -1,0 +1,8 @@
+{
+	"type" : "minecraft:smelting",
+	"ingredient": { "tag": "ubm:ancient_ore"},
+	"result":"ubm:ancient_ingot",
+	"experinece" : 2.3,
+	"cookingtime": 150,
+	"count" : 1
+}

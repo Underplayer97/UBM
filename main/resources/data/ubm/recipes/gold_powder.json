@@ -1,0 +1,17 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"G","MP"
+	],
+	
+	"key":
+	{
+		"G" : { "item" : "minecraft:gold_ingot"},
+		"MP" : { "item" : "ubm:mortar_pestel"}
+	},
+
+	"result" : { "item" : "ubm:gold_powder"},
+	"count" : 1
+}

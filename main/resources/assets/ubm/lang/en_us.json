@@ -16,5 +16,12 @@
 	
 	"item.ubm.ancient_ingot":"Ancient Ingot",
 	
-	"block.ubm.ancient_ore":"Ancient Ore"
+	"block.ubm.ancient_ore":"Ancient Ore",
+	"block.ubm.true_ancient_ct":"Ancient Crafting Table",
+	
+	"item.ubm.ancient_helmet":"Ancient Helmet",
+	"item.ubm.ancient_chestplate":"Ancient Chestplate",
+	"item.ubm.ancient_leggings":"Ancient Leggings",
+	"item.ubm.ancient_boots":"Ancient Boots"
+	
 }

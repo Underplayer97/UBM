@@ -24,4 +24,13 @@ public class UbmItems
 	
 	//Blocks
 	public static Item ancient_ore;
+	
+	//Armor
+	public static Item ancient_helmet;
+	public static Item ancient_chestplate;
+	public static Item ancient_leggings;
+	public static Item ancient_boots;
+	
+	//Craft
+	public static Item true_ancient_ct;
 }

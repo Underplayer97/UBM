@@ -11,6 +11,7 @@ public class UbmItems
 	public static Item coal_powder;
 	public static Item iron_powder;
 	public static Item lapis_powder;
+	public static Item mixed_powder;
 	
 	//Etc
 	public static Item mortar_pestel;
@@ -21,6 +22,7 @@ public class UbmItems
 	
 	//Ingots
 	public static Item ancient_ingot;
+	public static Item brittle_ingot;
 	
 	//Blocks
 	public static Item ancient_ore;

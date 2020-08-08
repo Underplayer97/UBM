@@ -39,7 +39,8 @@ public class ubmRegistries
 				UbmItems.coal_powder = new Item(new Item.Properties().group(Ubm)).setRegistryName(location("coal_powder")),
 				UbmItems.iron_powder = new Item(new Item.Properties().group(Ubm)).setRegistryName(location("iron_powder")),
 				UbmItems.lapis_powder = new Item(new Item.Properties().group(Ubm)).setRegistryName(location("lapis_powder")),
-				
+				UbmItems.mixed_powder = new Item(new Item.Properties().group(Ubm)).setRegistryName(location("mixed_powder")),
+
 				//Etc
 				UbmItems.mortar_pestel = new Item(new Item.Properties().maxStackSize(1).group(Ubm)).setRegistryName(location("mortar_pestel")),
 
@@ -50,7 +51,8 @@ public class ubmRegistries
 				
 				//Ingots
 				UbmItems.ancient_ingot = new Item(new Item.Properties().group(Ubm)).setRegistryName(location("ancient_ingot")),
-				
+				UbmItems.brittle_ingot = new Item(new Item.Properties().group(Ubm)).setRegistryName(location("brittle_ingot")),
+
 				//Blocks
 				UbmItems.ancient_ore = new BlockItem(UbmBlock.ancient_ore, new Item.Properties().group(Ubm)).setRegistryName(UbmBlock.ancient_ore.getRegistryName()),
 				UbmItems.true_ancient_ct = new BlockItem(UbmBlock.true_ancient_ct, new Item.Properties().group(Ubm)).setRegistryName(UbmBlock.true_ancient_ct.getRegistryName()),
@@ -73,7 +75,8 @@ public class ubmRegistries
 	{
 		event.getRegistry().registerAll
 		(
-				UbmBlock.ancient_ore = new Block(Block.Properties.create(Material.IRON).hardnessAndResistance(2.0f, 3.0f).lightValue(5).sound(SoundType.METAL)).setRegistryName(location("ancient_ore"))
+				UbmBlock.ancient_ore = new Block(Block.Properties.create(Material.IRON).hardnessAndResistance(2.0f, 3.0f).lightValue(5).sound(SoundType.METAL)).setRegistryName(location("ancient_ore")),
+				UbmBlock.true_ancient_ct = new Block(Block.Properties.create(Material.IRON).hardnessAndResistance(2.0f, 3.0f).lightValue(5).sound(SoundType.METAL)).setRegistryName(location("true_ancient_ct"))
 
 		);
 		

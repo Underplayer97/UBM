@@ -8,6 +8,7 @@
 	"item.ubm.coal_powder":"Coal Powder",
 	"item.ubm.iron_powder":"Iron Powder",
 	"item.ubm.lapis_powder":"Lapis Powder",
+	"item.ubm.mixed_powder":"Mixed Powder",
 	
 	"item.ubm.mortar_pestel":"Mortar and Pestel",
 	
@@ -15,6 +16,7 @@
 	"item.ubm.true_sword":"The True Ancient Sword",
 	
 	"item.ubm.ancient_ingot":"Ancient Ingot",
+	"item.ubm.brittle_ingot":"Brittle Ingot",
 	
 	"block.ubm.ancient_ore":"Ancient Ore",
 	"block.ubm.true_ancient_ct":"Ancient Crafting Table",

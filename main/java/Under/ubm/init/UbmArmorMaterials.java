@@ -10,10 +10,10 @@ import net.minecraft.util.SoundEvent;
 
 public enum UbmArmorMaterials implements IArmorMaterial
 {
-	head("ancient", 400, new int[] {2, 3, 1, 1}, 11, UbmItems.ancient_helmet, "entity.ender_dragon.growl", 0.0f),
-	chest("ancient", 400, new int[] {2, 3, 1, 1}, 11,UbmItems.ancient_chestplate, "entity.ender_dragon.growl", 0.0f),
-	leg("ancient", 400, new int[] {2, 3, 1, 1}, 11, UbmItems.ancient_leggings, "entity.ender_dragon.growl", 0.0f),
-	boots("ancient", 400, new int[] {2, 3, 1, 1}, 11,UbmItems.ancient_boots, "entity.ender_dragon.growl", 0.0f)
+	head("ancient", 150, new int[] {2, 3, 1, 1}, 11, UbmItems.ancient_helmet, "entity.ender_dragon.growl", 0.0f),
+	chest("ancient", 150, new int[] {2, 3, 1, 1}, 11,UbmItems.ancient_chestplate, "entity.ender_dragon.growl", 0.0f),
+	leg("ancient", 150, new int[] {2, 3, 1, 1}, 11, UbmItems.ancient_leggings, "entity.ender_dragon.growl", 0.0f),
+	boots("ancient", 150, new int[] {2, 3, 1, 1}, 11,UbmItems.ancient_boots, "entity.ender_dragon.growl", 0.0f)
 	;
 	
 	private static final int[] max_damage_array = new int[]{13, 15, 16, 11};

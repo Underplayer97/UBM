@@ -1,0 +1,17 @@
+{
+	"type" : "minecraft:crafting_shapeless",
+	
+	"pattern":
+	[
+		"L","MP"
+	],
+	
+	"key":
+	{
+		"L" : { "item" : "minecraft:lapis_lazuli"},
+		"MP" : { "item" : "ubm:mortar_pestel"}
+	},
+
+	"result" : { "item" : "ubm:lapis_powder"},
+	"count" : 1
+}

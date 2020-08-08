@@ -1,0 +1,17 @@
+{
+	"type" : "minecraft:crafting_shapeless",
+	
+	"pattern":
+	[
+		"E","MP"
+	],
+	
+	"key":
+	{
+		"E" : { "item" : "minecraft:emerald"},
+		"MP" : { "item" : "ubm:mortar_pestel"}
+	},
+
+	"result" : { "item" : "ubm:emerald_powder"},
+	"count" : 1
+}

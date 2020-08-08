@@ -1,0 +1,17 @@
+{
+
+"type":"minecraft:smelting",
+
+"ingredent":{
+	
+	"item": "ubm:mixed_powder"
+	
+},
+"result": "ubm:brittle_ingot",
+
+"experence": 2.0,
+
+"cookingtime": 500
+
+
+}

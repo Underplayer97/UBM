@@ -1,6 +1,8 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "ubm:block/true_ancient_ct"
+        "top": "ubm:block/true_ancient_ct_top",
+		"front": "ubm:block/true_ancient_ct_front",
+		"side": "ubm:block/true_ancient_ct_side"
     }
 }

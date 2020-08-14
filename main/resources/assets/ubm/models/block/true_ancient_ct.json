@@ -1,5 +1,5 @@
 {
-    "parent": "block/cube_all",
+    "parent": "block/orientable",
     "textures": {
         "top": "ubm:block/true_ancient_ct_top",
 		"front": "ubm:block/true_ancient_ct_front",
